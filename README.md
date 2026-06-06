@@ -12,10 +12,11 @@ The implementation shown here uses a BIGTREETECH Manta M8P Motor3 / M3B `2A` lin
 
 These photos are included to help builders identify the parts and ports used by this mod. The wiring diagram and the labels on your own hardware should remain the source of truth.
 
-- [Electronics bay overview](assets/photos/electronics-bay.jpg)
-- [Manta M8P highlighted M3B and USB-side GND ports](assets/photos/manta-m8p-highlighted-ports.png)
-- [Brake stepper motors](assets/photos/brake-stepper-motors.jpg)
-- [Relay module reference screenshot](assets/photos/relay-module-reference.jpg)
+| Electronics bay overview | Manta M8P highlighted ports |
+| --- | --- |
+| <img src="assets/photos/electronics-bay.jpg" alt="Voron 2.4 electronics bay overview" width="420"> | <img src="assets/photos/manta-m8p-highlighted-ports.png" alt="Manta M8P highlighted M3B and USB-side GND ports" width="420"> |
+| Brake stepper motors | Relay module reference |
+| <img src="assets/photos/brake-stepper-motors.jpg" alt="Brake stepper motors" width="420"> | <img src="assets/photos/relay-module-reference.jpg" alt="Relay module reference screenshot" width="420"> |
 
 See [reference photo notes](docs/photos.en.md) and [中文参考图片说明](docs/photos.zh-CN.md).
 

@@ -12,10 +12,11 @@
 
 这些图片用于帮助爱好者定位本方案用到的元器件和端口。实际接线仍以接线图、自己板子和模块上的丝印为准。
 
-- [电器底仓实拍](assets/photos/electronics-bay.jpg)
-- [Manta M8P 红框端口参考](assets/photos/manta-m8p-highlighted-ports.png)
-- [带刹车步进电机实物](assets/photos/brake-stepper-motors.jpg)
-- [继电器模块购买/参考截图](assets/photos/relay-module-reference.jpg)
+| 电器底仓实拍 | Manta M8P 红框端口参考 |
+| --- | --- |
+| <img src="assets/photos/electronics-bay.jpg" alt="Voron 2.4 电器底仓实拍" width="420"> | <img src="assets/photos/manta-m8p-highlighted-ports.png" alt="Manta M8P 红框端口参考" width="420"> |
+| 带刹车步进电机实物 | 继电器模块购买/参考截图 |
+| <img src="assets/photos/brake-stepper-motors.jpg" alt="带刹车步进电机实物" width="420"> | <img src="assets/photos/relay-module-reference.jpg" alt="继电器模块购买/参考截图" width="420"> |
 
 详细说明见 [中文参考图片说明](docs/photos.zh-CN.md)，英文版见 [reference photo notes](docs/photos.en.md)。
 
