@@ -1,5 +1,7 @@
 # 接线说明
 
+![接线图](../assets/wiring-diagram.zh-CN.png)
+
 ## 目标
 
 用继电器控制四个 24V 刹车线圈。继电器控制端由 Manta M8P 的 `M3B-2A` 和 USB 口旁 GND 提供，继电器触点只切换刹车线圈的 24V 正极。

@@ -1,5 +1,7 @@
 # Wiring Notes
 
+![Wiring diagram](../assets/wiring-diagram.en.png)
+
 ## Goal
 
 Use a relay to control four 24 V brake coils. The relay control side is powered by Manta M8P `M3B-2A` and USB-side GND. The relay contact switches only the 24 V brake positive line.

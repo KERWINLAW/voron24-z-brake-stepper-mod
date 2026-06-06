@@ -8,5 +8,6 @@ languages:
   - en
   - zh-CN
 assets:
-  wiring_diagram: assets/wiring-diagram.zh-CN.png
+  wiring_diagram_en: assets/wiring-diagram.en.png
+  wiring_diagram_zh_CN: assets/wiring-diagram.zh-CN.png
 license: MIT

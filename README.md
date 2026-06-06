@@ -6,7 +6,7 @@ This repository documents an experimental Voron 2.4 mod that uses four Z stepper
 
 The implementation shown here uses a BIGTREETECH Manta M8P Motor3 / M3B `2A` line as the relay control source. The relay contact switches the separate 24 V brake load circuit.
 
-![Wiring diagram](assets/wiring-diagram.zh-CN.png)
+![Wiring diagram](assets/wiring-diagram.en.png)
 
 ## Reference Photos
 
@@ -73,8 +73,10 @@ See [Klipper notes](docs/klipper.en.md) and [Klipper 中文说明](docs/klipper.
 
 ## Assets
 
-- `assets/wiring-diagram.zh-CN.png` - shareable wiring diagram
-- `assets/wiring-diagram.zh-CN.svg` - editable source diagram
+- `assets/wiring-diagram.en.png` - shareable English wiring diagram
+- `assets/wiring-diagram.en.svg` - editable English source diagram
+- `assets/wiring-diagram.zh-CN.png` - shareable Chinese wiring diagram
+- `assets/wiring-diagram.zh-CN.svg` - editable Chinese source diagram
 - `assets/photos/` - reference photos for the electronics bay, board ports, brake steppers, and relay module
 
 ## License

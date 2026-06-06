@@ -76,6 +76,8 @@
 
 - `assets/wiring-diagram.zh-CN.png` - 分享用 PNG 接线图
 - `assets/wiring-diagram.zh-CN.svg` - 可编辑 SVG 源文件
+- `assets/wiring-diagram.en.png` - 英文版 PNG 接线图
+- `assets/wiring-diagram.en.svg` - 英文版 SVG 源文件
 - `assets/photos/` - 电器底仓、端口、刹车步进和继电器模块参考图片
 
 ## 许可证
