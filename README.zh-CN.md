@@ -8,6 +8,17 @@
 
 ![接线图](assets/wiring-diagram.zh-CN.png)
 
+## 参考图片
+
+这些图片用于帮助爱好者定位本方案用到的元器件和端口。实际接线仍以接线图、自己板子和模块上的丝印为准。
+
+- [电器底仓实拍](assets/photos/electronics-bay.jpg)
+- [Manta M8P 红框端口参考](assets/photos/manta-m8p-highlighted-ports.png)
+- [带刹车步进电机实物](assets/photos/brake-stepper-motors.jpg)
+- [继电器模块购买/参考截图](assets/photos/relay-module-reference.jpg)
+
+详细说明见 [中文参考图片说明](docs/photos.zh-CN.md)，英文版见 [reference photo notes](docs/photos.en.md)。
+
 ## 方案作用
 
 - 原 Z 步进电机四芯相线保持原接法。
@@ -64,6 +75,7 @@
 
 - `assets/wiring-diagram.zh-CN.png` - 分享用 PNG 接线图
 - `assets/wiring-diagram.zh-CN.svg` - 可编辑 SVG 源文件
+- `assets/photos/` - 电器底仓、端口、刹车步进和继电器模块参考图片
 
 ## 许可证
 

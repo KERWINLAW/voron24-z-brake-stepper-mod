@@ -8,6 +8,17 @@ The implementation shown here uses a BIGTREETECH Manta M8P Motor3 / M3B `2A` lin
 
 ![Wiring diagram](assets/wiring-diagram.zh-CN.png)
 
+## Reference Photos
+
+These photos are included to help builders identify the parts and ports used by this mod. The wiring diagram and the labels on your own hardware should remain the source of truth.
+
+- [Electronics bay overview](assets/photos/electronics-bay.jpg)
+- [Manta M8P highlighted M3B and USB-side GND ports](assets/photos/manta-m8p-highlighted-ports.png)
+- [Brake stepper motors](assets/photos/brake-stepper-motors.jpg)
+- [Relay module reference screenshot](assets/photos/relay-module-reference.jpg)
+
+See [reference photo notes](docs/photos.en.md) and [中文参考图片说明](docs/photos.zh-CN.md).
+
 ## What This Mod Does
 
 - Keeps the original Z stepper motor phase wiring in place.
@@ -63,6 +74,7 @@ See [Klipper notes](docs/klipper.en.md) and [Klipper 中文说明](docs/klipper.
 
 - `assets/wiring-diagram.zh-CN.png` - shareable wiring diagram
 - `assets/wiring-diagram.zh-CN.svg` - editable source diagram
+- `assets/photos/` - reference photos for the electronics bay, board ports, brake steppers, and relay module
 
 ## License
 
