@@ -1,0 +1,12 @@
+name: Voron 2.4 Z Brake Stepper Mod
+printer: Voron 2.4
+category: electrical
+status: experimental
+board:
+  - BIGTREETECH Manta M8P
+languages:
+  - en
+  - zh-CN
+assets:
+  wiring_diagram: assets/wiring-diagram.zh-CN.png
+license: MIT
