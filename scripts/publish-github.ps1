@@ -45,7 +45,9 @@ catch {
   }
 }
 
-git remote remove origin 2>$null
+if (git remote get-url origin 2>$null) {
+  git remote remove origin
+}
 git remote add origin "https://github.com/$Owner/$Repo.git"
 git branch -M main
 git push -u origin main
